@@ -20,9 +20,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
         <div align= "center"> <a href=https://www.instagram.com/uchnyng?igsh=MXRxNW9sOHF1eXpoZQ%3D%3D&utm_source=qr> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="> </a>
              <a href=https://velog.io/@uchnyng/Deep-Learning-from-Scratch-4-3%EC%9E%A5-%EB%B2%A8%EB%A7%8C-%EB%B0%A9%EC%A0%95%EC%8B%9D> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link="> </a>
-             <a href=[네이버 블로그] 블로그를 소개합니다.
-시선집 | 찬영
-https://m.blog.naver.com/uchnyng_> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link="> </a>
+             <a href= https://m.blog.naver.com/uchnyng_> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link="> </a>
         </div>
     <div align= "center">  </div> 
     </div>

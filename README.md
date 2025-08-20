@@ -31,6 +31,6 @@
     </div> 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃 허 브 아 이 디&show_icons=true&theme=radical)    
+![Yuchanyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuchanyeong&show_icons=true&theme=radical)    
 
     
